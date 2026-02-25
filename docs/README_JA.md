@@ -27,7 +27,7 @@ claude mcp add twitter \
 
 ```bash
 export TWITTER_TOKEN="<your-token>"
-cp -r openclaw-skill/twitter ~/.openclaw/skills/
+cp -r openclaw-skill/opentwitter ~/.openclaw/skills/
 ```
 
 ---
@@ -329,7 +329,7 @@ npx @modelcontextprotocol/inspector uv --directory /path/to/twitter-mcp run twit
 ├── docs/
 │   ├── README_JA.md           # 日本語
 │   └── README_KO.md           # 한국어
-├── openclaw-skill/twitter/    # OpenClaw Skill
+├── openclaw-skill/opentwitter/    # OpenClaw Skill
 ├── pyproject.toml
 ├── config.json
 └── src/twitter_mcp/
