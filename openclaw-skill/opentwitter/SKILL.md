@@ -1,5 +1,5 @@
 ---
-name: twitter
+name: opentwitter
 description: Twitter/X data via the 6551 API. Supports user profiles, tweet search, user tweets, follower events, deleted tweets, and KOL followers.
 
 user-invocable: true
